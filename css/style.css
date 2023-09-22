@@ -1,0 +1,104 @@
+.content-3{
+	width:25%;
+	padding:0 10px;
+}
+.content-4{
+	width:33.32%;
+	padding:0 10px;
+}
+.content-6{
+	width:50%;
+	padding:0 10px;
+}
+.content-8{
+	width:66.66%;
+	padding:0 10px;
+}
+
+.container{
+	font-family: 'Rubik', sans-serif;
+}
+.main{
+	display:flex;
+}
+.align-items{
+	align-items:center;
+}
+.list a{
+	text-decoration:none;
+	font-size:16px;
+	padding: 30px;
+	color:gray;
+}
+.icons i{
+	padding:10px;
+}
+.contact h2{
+	font-size:40px;
+}
+.contact p{
+	color:gray;
+}
+.contact p{
+	color:gray;
+}
+.contact h2:after{
+	content: "";
+    display: inline-block;
+    background-color: gray;
+    width: 11rem;
+    border: 1px;
+    height: 2px;
+	position: absolute;
+    bottom: 60%;
+    left: 19px;
+}
+.contact a{
+	border-radius:4px;
+	padding:7px 21px;
+	text-decoration:none;
+	background-color:#484141;
+	color:white;
+	display:inline-block;
+	margin-top:10px;
+	
+}
+.graphics{
+        height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #e3e331;
+    position: absolute;
+    margin-left: 13rem;
+    margin-top: -71px;
+}
+.image img{
+	width: 44rem;
+    height: 70vh;
+	
+}
+.circle1{
+	    background-color: black;
+    height: 20px;
+    width: 20px;
+    border-radius: 23px 0px 0px 0px;
+    margin-top: 2rem;
+}
+.circle2{
+	height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #e3e331;
+    position: absolute;
+    margin-left: 4rem;
+    margin-top: -27px;
+}
+
+.circle3{
+	       background-color: black;
+    height: 29px;
+    width: 29px;
+    border-radius: 100px 0px 0px 0px;
+    margin-top: -28px;
+    margin-left: 9rem;
+}
